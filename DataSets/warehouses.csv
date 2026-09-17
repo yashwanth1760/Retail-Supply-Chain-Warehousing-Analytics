@@ -1,0 +1,31 @@
+warehouse_id,warehouse_name,city,warehouse_type,storage_capacity_units,region,opened_date
+W001,NorthPeak Kochi Distribution Warehouse,Kochi,Distribution Center,30000,South,2019-08-08
+W002,NorthPeak Bengaluru Regional Warehouse,Bengaluru,Regional,40000,South,2007-02-11
+W003,NorthPeak Chandigarh Local Warehouse,Chandigarh,Local,10000,North,2009-10-25
+W004,NorthPeak Bengaluru Regional Warehouse,Bengaluru,Regional,30000,South,2006-07-27
+W005,NorthPeak Jaipur Regional Warehouse,Jaipur,Regional,30000,North,2006-04-30
+W006,NorthPeak Mumbai Distribution Warehouse,Mumbai,Distribution Center,50000,West,2019-01-27
+W007,NorthPeak Bengaluru Local Warehouse,Bengaluru,Local,8000,South,2006-02-11
+W008,NorthPeak Jaipur Regional Warehouse,Jaipur,Regional,20000,North,2011-07-01
+W009,NorthPeak Indore Regional Warehouse,Indore,Regional,15000,Central,2017-10-21
+W010,NorthPeak Nagpur Local Warehouse,Nagpur,Local,10000,Central,2009-01-20
+W011,NorthPeak Mumbai Local Warehouse,Mumbai,Local,10000,West,2009-03-20
+W012,NorthPeak Chandigarh Regional Warehouse,Chandigarh,Regional,50000,North,2006-05-30
+W013,NorthPeak Bengaluru Local Warehouse,Bengaluru,Local,8000,South,2020-04-05
+W014,NorthPeak Visakhapatnam Local Warehouse,Visakhapatnam,Local,8000,East,2015-06-12
+W015,NorthPeak Coimbatore Regional Warehouse,Coimbatore,Regional,20000,South,2022-10-26
+W016,NorthPeak Delhi Local Warehouse,Delhi,Local,5000,North,2006-11-02
+W017,NorthPeak Nagpur Local Warehouse,Nagpur,Local,8000,Central,2021-05-12
+W018,NorthPeak Coimbatore Regional Warehouse,Coimbatore,Regional,15000,South,2007-08-26
+W019,NorthPeak Bhopal Local Warehouse,Bhopal,Local,8000,Central,2008-05-30
+W020,NorthPeak Surat Local Warehouse,Surat,Local,10000,West,2006-09-28
+W021,NorthPeak Visakhapatnam Local Warehouse,Visakhapatnam,Local,8000,East,2012-08-18
+W022,NorthPeak Chandigarh Local Warehouse,Chandigarh,Local,10000,North,2022-11-16
+W023,NorthPeak Coimbatore Regional Warehouse,Coimbatore,Regional,15000,South,2011-01-21
+W024,NorthPeak Surat Local Warehouse,Surat,Local,5000,West,2006-05-13
+W025,NorthPeak Nagpur Local Warehouse,Nagpur,Local,10000,Central,2014-12-30
+W026,NorthPeak Nagpur Local Warehouse,Nagpur,Local,10000,Central,2012-10-13
+W027,NorthPeak Hyderabad Distribution Warehouse,Hyderabad,Distribution Center,25000,South,2008-10-08
+W028,NorthPeak Mumbai Local Warehouse,Mumbai,Local,5000,West,2022-03-26
+W029,NorthPeak Nagpur Regional Warehouse,Nagpur,Regional,20000,Central,2013-12-04
+W030,NorthPeak Lucknow Distribution Warehouse,Lucknow,Distribution Center,30000,North,2006-10-23

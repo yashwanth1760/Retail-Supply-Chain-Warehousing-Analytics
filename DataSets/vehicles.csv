@@ -1,0 +1,91 @@
+vehicle_id,vehicle_type,fuel_type,max_payload_kg,depot_warehouse_id,last_service_date,is_active
+V001,Refrigerated Truck,Diesel,5696.91,W008,2025-09-29,Yes
+V002,Trailer,Diesel,15444.28,W013,2025-10-07,No
+V003,Container Truck,Diesel,9555.2,W021,2026-01-24,No
+V004,Mini Truck,Diesel,1595.73,W027,2026-01-16,Yes
+V005,Mini Truck,Diesel,1385.76,W007,2026-04-04,No
+V006,Container Truck,Electric,8770.03,W028,2025-08-31,Yes
+V007,Mini Truck,CNG,1633.71,W004,2026-04-23,Yes
+V008,Container Truck,Diesel,8763.68,W005,2025-06-23,Yes
+V009,Mini Truck,Diesel,1545.49,W007,2026-07-23,Yes
+V010,Container Truck,Diesel,8433.26,W010,2025-07-10,Yes
+V011,Refrigerated Truck,Diesel,5475.93,W004,2026-07-13,Yes
+V012,Container Truck,Diesel,8264.07,W006,2025-12-21,Yes
+V013,Container Truck,Diesel,8653.67,W002,2025-11-07,Yes
+V014,Trailer,Diesel,14458.28,W025,2026-07-16,Yes
+V015,Mini Truck,CNG,1411.1,W001,2026-01-09,Yes
+V016,Container Truck,CNG,8831.19,W029,2025-12-04,Yes
+V017,Mini Truck,Diesel,1515.46,W021,2026-07-18,Yes
+V018,Mini Truck,Diesel,1461.25,W017,2025-08-27,Yes
+V019,Mini Truck,Diesel,1627.65,W004,2025-12-14,Yes
+V020,Trailer,Electric,15031.49,W005,2026-08-03,No
+V021,Trailer,Diesel,14570.8,W030,2026-04-22,Yes
+V022,Trailer,Diesel,17038.58,W006,2026-04-24,Yes
+V023,Mini Truck,Diesel,1603.91,W027,2026-01-29,Yes
+V024,Mini Truck,Diesel,1505.37,W013,2025-12-01,Yes
+V025,Mini Truck,CNG,1619.19,W002,2026-03-15,Yes
+V026,Refrigerated Truck,Diesel,5789.04,W013,2026-04-03,Yes
+V027,Trailer,CNG,16476.89,W010,2026-03-26,Yes
+V028,Container Truck,Diesel,9006.44,W006,2025-06-12,Yes
+V029,Trailer,Diesel,15829.82,W020,2026-07-05,Yes
+V030,Trailer,CNG,15681.1,W003,2025-08-05,Yes
+V031,Container Truck,CNG,9007.82,W022,2025-06-21,Yes
+V032,Mini Truck,Electric,1444.12,W024,2026-02-17,Yes
+V033,Refrigerated Truck,CNG,6183.29,W026,2025-08-09,Yes
+V034,Mini Truck,Diesel,1557.76,W004,2025-09-08,Yes
+V035,Trailer,Diesel,16995.18,W026,2025-08-24,Yes
+V036,Refrigerated Truck,Diesel,6399.64,W020,2026-06-23,Yes
+V037,Container Truck,Diesel,9729.11,W015,2025-08-13,Yes
+V038,Trailer,Diesel,16294.04,W020,2026-02-15,Yes
+V039,Container Truck,Diesel,8826.24,W021,2025-10-21,Yes
+V040,Trailer,Diesel,16911.58,W004,2026-06-29,Yes
+V041,Container Truck,Diesel,9671.31,W018,2026-02-22,Yes
+V042,Trailer,Diesel,17577.45,W021,2026-08-13,Yes
+V043,Refrigerated Truck,Diesel,6588.6,W019,2025-08-14,Yes
+V044,Refrigerated Truck,Diesel,5612.11,W024,2025-06-25,Yes
+V045,Container Truck,Diesel,9838.72,W028,2026-03-27,No
+V046,Trailer,CNG,16790.78,W008,2025-08-16,Yes
+V047,Container Truck,Diesel,8755.38,W002,2025-08-07,Yes
+V048,Container Truck,Diesel,8197.91,W019,2025-11-29,Yes
+V049,Container Truck,Diesel,8843.83,W010,2026-03-29,Yes
+V050,Container Truck,CNG,8385.52,W001,2026-07-16,Yes
+V051,Mini Truck,Diesel,1541.46,W028,2026-05-07,Yes
+V052,Container Truck,Diesel,8120.69,W021,2026-07-26,Yes
+V053,Container Truck,Diesel,8898.76,W030,2026-02-21,Yes
+V054,Mini Truck,Electric,1363.2,W018,2025-06-13,Yes
+V055,Mini Truck,Diesel,1583.66,W001,2026-04-10,Yes
+V056,Trailer,Diesel,15038.46,W020,2026-04-26,Yes
+V057,Container Truck,CNG,8414.35,W010,2025-07-03,Yes
+V058,Mini Truck,CNG,1584.89,W023,2026-03-03,Yes
+V059,Trailer,CNG,15888.85,W024,2026-05-02,Yes
+V060,Mini Truck,Diesel,1419.69,W002,2025-08-03,Yes
+V061,Refrigerated Truck,Diesel,6414.4,W023,2025-06-27,Yes
+V062,Container Truck,Diesel,9519.21,W017,2025-10-14,Yes
+V063,Trailer,CNG,14673.35,W017,2025-06-08,Yes
+V064,Trailer,CNG,15048.88,W006,2026-06-18,Yes
+V065,Mini Truck,Diesel,1530.37,W013,2026-08-11,Yes
+V066,Refrigerated Truck,Diesel,6574.82,W016,2026-01-28,Yes
+V067,Refrigerated Truck,CNG,5924.66,W024,2025-09-28,Yes
+V068,Container Truck,Diesel,9220.72,W003,2026-03-17,Yes
+V069,Mini Truck,Diesel,1382.0,W030,2025-08-22,Yes
+V070,Mini Truck,Diesel,1362.49,W023,2026-04-26,Yes
+V071,Refrigerated Truck,CNG,5478.92,W019,2026-06-26,Yes
+V072,Trailer,CNG,17252.1,W003,2026-06-22,Yes
+V073,Trailer,Diesel,15058.31,W004,2025-06-18,Yes
+V074,Trailer,CNG,16429.35,W027,2026-06-20,Yes
+V075,Mini Truck,Diesel,1379.36,W025,2026-04-27,Yes
+V076,Container Truck,Diesel,8137.65,W009,2025-10-23,Yes
+V077,Refrigerated Truck,Electric,6323.09,W020,2026-02-13,Yes
+V078,Mini Truck,CNG,1586.72,W001,2026-01-10,Yes
+V079,Mini Truck,Diesel,1364.44,W019,2025-09-19,Yes
+V080,Trailer,Diesel,15318.75,W014,2025-06-01,Yes
+V081,Mini Truck,CNG,1366.19,W012,2026-02-07,Yes
+V082,Refrigerated Truck,CNG,6560.59,W019,2025-11-25,No
+V083,Container Truck,Diesel,8386.01,W027,2025-09-18,No
+V084,Mini Truck,Diesel,1631.61,W025,2025-07-12,Yes
+V085,Trailer,Diesel,14734.59,W011,2025-11-30,Yes
+V086,Trailer,CNG,16784.7,W014,2026-04-27,Yes
+V087,Mini Truck,Diesel,1620.36,W017,2025-08-27,Yes
+V088,Trailer,Diesel,15874.91,W018,2026-04-01,Yes
+V089,Refrigerated Truck,Diesel,5818.18,W011,2026-02-23,Yes
+V090,Trailer,Diesel,16774.36,W006,2026-01-24,Yes
